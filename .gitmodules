@@ -12,5 +12,5 @@
 	url = https://github.com/sadanand1120/jackal_calib.git
 [submodule "third_party/urdf_models"]
 	path = third_party/urdf_models
-	https://github.com/sadanand1120/URDF_models.git
+	url = https://github.com/sadanand1120/URDF_models.git
 	branch = synapse
